@@ -55,7 +55,7 @@ cp /boot/config* .config && make oldconfig && make && make install &&make module
 
 в результате в grub можно загрузиться с новым ядром
 
-
+<img src="https://raw.githubusercontent.com/muxun/otus-linux/kernel/img/kerner.png"></img>
 </p>
 </details>
 
